@@ -11,6 +11,9 @@ This SQL project models a digital library system with books, students, and issue
 3. Remove inactive students who haven’t borrowed any books in the last 3 years.
 
 
+
+## Database Schemas
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0aed7a3d-99f8-42c4-a176-505f799ec2a3" />
 
 
